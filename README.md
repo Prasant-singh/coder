@@ -8,10 +8,9 @@
 
 - 🔭 I’m currently working on **[Becorperate](https://devfolio.co/projects/becorperate-b84b)**
 
-- 🌱 I’m currently learning **ML and AI, Solidity and React Express and many more**
+- 🌱 I’m currently learning **ML, DL, and AI many more**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 🔭  My another decent project **[Image-Generator](https://Prasant-singh.github.io/Image-generator/)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Prasant-singh)**
 
