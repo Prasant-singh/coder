@@ -80,5 +80,5 @@
 <a href="https://github.com/Prasant-singh/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Prasant-singh">
 </a>
-<a href="https://github.com/Prasant-singh?tab=followers"><img src="https://img.shields.io/github/followers/abhi5157?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Prasant-singh?tab=followers"><img src="https://img.shields.io/github/followers/prasant-singh?label=Followers&style=social" alt="GitHub Badge"></a>
 
