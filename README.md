@@ -70,7 +70,7 @@
 <p align="left">
 
 <a href = "https://https://www.instagram.com/tanwarprasantsingh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>connect</a>
-<a href = "https://twitter.com/abhi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>tweet</a>
+<a href = "https://twitter.com/Prasantsingh3532"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>tweet</a>
 <a href = "https://www.instagram.com/tanwarprasantsingh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>reels</a>
 
 
